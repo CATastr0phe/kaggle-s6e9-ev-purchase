@@ -1,0 +1,8 @@
+# Competition data (not redistributable) and generated outputs
+data/
+preds/
+submissions/
+*.csv
+*.npy
+__pycache__/
+.ipynb_checkpoints/
